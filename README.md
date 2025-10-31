@@ -1,4 +1,4 @@
-# Stable Diffusion WebUI - Google Colab Pro 版 (Fast Deployment)
+# Stable Diffusion WebUI - For Cloudflare Tunnel  
 
 ![GitHub](https://img.shields.io/github/license/yourusername/fast-sd-colab?style=flat-square)
 ![Colab](https://img.shields.io/badge/Google-Colab-%23F9AB00?style=flat-square&logo=google-colab)
