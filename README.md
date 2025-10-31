@@ -118,9 +118,13 @@ MyDrive/
 
 ## 鳴謝
 
-TheLastBen - 原始 fast-stable-diffusion
-AUTOMATIC1111
-Mikubill/sd-webui-controlnet
-Cloudflare Zero Trust
+TheLastBen - 原始 fast-stable-diffusion  
+AUTOMATIC1111  
+Mikubill/sd-webui-controlnet  
+Cloudflare Zero Trust  
 
-授權MIT License (LICENSE)
+授權MIT License (LICENSE)  
+
+---
+
+Horlicks / [moelog.com](https://www.moelog.com)
