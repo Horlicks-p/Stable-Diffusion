@@ -35,7 +35,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/fast-sd-colab/blob/main/Fast_Stable_Diffusion_Colab.ipynb)
 
-> 建議使用 **Colab Pro / Pro+** 以獲得更高速 GPU（如 A100）和更長執行時間。
+> 根據Google現行規範，Stable Diffusion WebUI僅在 **Colab Pro / Pro+** 使用 ，否則無法正常安裝。  
 
 ---
 
