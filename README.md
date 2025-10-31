@@ -88,15 +88,15 @@
 
 ## 資料夾結構（Google Drive）
 
-MyDrive/
-└── sd/
-    └── stable-diffusion-webui/
-        ├── models/
-        │   ├── Stable-diffusion/  ← 主模型
-        │   └── Lora/             ← LoRA 模型
-        └── extensions/
-            └── sd-webui-controlnet/
-                └── models/       ← ControlNet 模型
+MyDrive/  
+└── sd/  
+    └── stable-diffusion-webui/  
+        ├── models/  
+        │   ├── Stable-diffusion/  ← 主模型  
+        │   └── Lora/             ← LoRA 模型  
+        └── extensions/  
+            └── sd-webui-controlnet/  
+                └── models/       ← ControlNet 模型  
 
 ---
 
