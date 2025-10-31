@@ -116,14 +116,8 @@ MyDrive/
 
 ---
 
-## 貢獻
+## 鳴謝
 
-歡迎提交 Issue 或 Pull Request！
-
-```bash
-git clone https://github.com/yourusername/fast-sd-colab.git
-
-鳴謝
 TheLastBen - 原始 fast-stable-diffusion
 AUTOMATIC1111
 Mikubill/sd-webui-controlnet
